@@ -1,0 +1,14 @@
+body {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1em;
+}
+
+h1 {
+  font-size: 30px;
+  background-color: #ffffd9;
+  padding: 1em;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+}
